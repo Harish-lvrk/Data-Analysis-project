@@ -142,9 +142,9 @@ It helps us **understand global trends in software development**.
 ---
 
 ## 🙌 Acknowledgements
-* Dataset Source: [Stack Overflow Developer Survey 2020](https://insights.stackoverflow.com/survey)  
+* Dataset Source: [Stack Overflow Developer Survey 2025](https://insights.stackoverflow.com/survey)  
 * Analysis & Documentation: **L Hareesh**  
-* AI Assistance: **ChatGPT**  
+* AI Assistance: **ChatGPT**  **Gemini Pro** 
 
 ---
 
