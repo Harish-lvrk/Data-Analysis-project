@@ -8,7 +8,7 @@
 
 ## 📌 Project Overview
 
-This project performs **Exploratory Data Analysis (EDA)** on the **Stack Overflow Annual Developer Survey 2020 dataset**.  
+This project performs **Exploratory Data Analysis (EDA)** on the **Stack Overflow Annual Developer Survey 2025 dataset**.  
 The dataset contains responses from **65,000+ developers worldwide**, where they shared details about their age, countries, education, jobs, salaries, programming languages, and preferences.
 
 The main goal is to analyze and visualize the data to understand **global developer trends in 2020**.
